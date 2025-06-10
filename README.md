@@ -1,4 +1,4 @@
-# build-redis-with-cpp  
+# Build-redis-with-cpp  
 Redis is a memory database, which is a highly performant database that can proceed with large data sets.  
 This project follows the guidelines from the website: build-your-own.org.  
 The project uses CPP and C programming languages to build Redis. 
